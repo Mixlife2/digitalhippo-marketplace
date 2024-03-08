@@ -88,6 +88,12 @@ importamos lucifer-react (creamos los 3 iconos) , dentro de otro segundo compone
 
 hasta aca llega la parte uno, la landingpage ya esta lista totalmente responsive y con componentes reutilizables.
 
+Nuestra landing page quedo lista, empezo con lo que seria nuestra barra de navegacion creando un nuevo componente .
+
+2_ aca ya creamos los componentes que utilizamos para la barra de navegacion, cuando se usa en dispositivos mobiles desaparece y tambien tiene todos los props correspondientes de ts para que no haya problemas
+
+terminamos la barra de navegacion para estilo web, ahora empezariamos lo que seria la parte mobile, NavBar,NavItem,NavItems.
+
 
 
 
